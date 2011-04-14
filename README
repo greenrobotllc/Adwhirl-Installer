@@ -1,0 +1,1 @@
+This is a Perl script that installs the Adwhirl (http://www.adwhirl.com) mobile and server project onto an EC2 server. Fill out the AWS Key and Secret at the top of the file, and run it after installing all the needed CPAN modules.
